@@ -10,4 +10,4 @@ $SP_i = \alpha + S_i + U_i$
 
 $\text{spatial.rr}_i$ = exp($SP_i - \alpha$) $=$ exp($S_i + U_i$)
 
-temporal.rr = exp($v_t$)
+$\text{temporal.rr}_t = \exp(v_t)$
