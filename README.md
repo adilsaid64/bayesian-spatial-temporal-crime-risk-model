@@ -5,4 +5,7 @@ The projects aim is to model the risk of violant crime using Bayesian spatial-te
 **summary.csv**: This file contains the summary statistics for each parameter estimated by the model, including the mean, standard deviation, Monte Carlo error and the 2.5% and 97.5% quantiles.
 
 Notation:
-$SP$
+
+$SP_i = \alpha + S_i + U_i$
+
+spatial.rr = exp($SP_i - \alpha$)
