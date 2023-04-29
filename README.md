@@ -8,4 +8,6 @@ Notation:
 
 $SP_i = \alpha + S_i + U_i$
 
-spatial.rr = exp($SP_i - \alpha$)
+spatial.rr = exp($SP_i - \alpha$) $=$ exp($S_i + U_i$)
+
+temporal.rr = exp($v_t$)
